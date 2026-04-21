@@ -1,0 +1,46 @@
+# --- Compiled Object Files ---
+*.slo
+*.lo
+*.o
+*.obj
+
+# --- Precompiled Headers ---
+*.gch
+*.pch
+
+# --- Build Directories ---
+[Bb]uild/
+bin/
+obj/
+out/
+
+# --- Executables ---
+*.exe
+*.out
+*.app
+
+# --- CMake Generated Files ---
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# --- IDE Specific Files ---
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
