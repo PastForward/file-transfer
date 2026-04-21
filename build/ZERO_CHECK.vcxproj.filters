@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aronk\OneDrive\Desktop\programming stuff\pluh\file-transfer\build\CMakeFiles\8b0ca342be6a8cc24b54bc10b581f99b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{911BAFCF-5699-33A1-9580-A85DBEC6F87B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
